@@ -537,7 +537,7 @@ const getPaymentController=async(req,res)=>{
     payment_method_types:["card"],
     line_items:lineItems,
     mode:"payment",
-    success_url:"https://campusseek.web.app/success/${product._id}`,
+    success_url:`https://campusseek.web.app/success/${product._id}`,
     cancel_url:"https://campusseek.web.app/cancel",
 
   });
