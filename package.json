@@ -20,7 +20,6 @@
     "nodemailer": "^6.9.6",
     "nodemon": "^3.0.1",
     "react-redux": "^8.1.2",
-    "socket.io": "^4.7.2",
     "stripe": "^14.2.0"
   },
   "name": "campusseek",
